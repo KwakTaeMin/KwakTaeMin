@@ -1,12 +1,14 @@
 ### Hi there 👋
 🤔 I’m looking for ✨ _special_ ✨ study group 
 
+```linux
 git checkout kwaktaemin
 git remote add upstream base_저장소_url
 git remote -v
 git fetch upstream kwaktaemin
 git rebase upstream/kwaktaemin
 git checkout -b kwaktaemin-{step}
+```
 
 <!--
 **KwakTaeMin/KwakTaeMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
