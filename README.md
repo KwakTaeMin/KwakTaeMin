@@ -1,7 +1,7 @@
 ### Hi there 👋
 🤔 I’m looking for ✨ _special_ ✨ study group 
 
-```linux
+```shell
 git checkout kwaktaemin
 git remote add upstream base_저장소_url
 git remote -v
