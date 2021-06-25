@@ -2,7 +2,12 @@
 🤔 I’m looking for ✨ _special_ ✨ study group 
 <!--
 **KwakTaeMin/KwakTaeMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+git checkout kwaktaemin
+git remote add {저장소_별칭} base_저장소_url
+git remote -v
+git fetch upstream {본인_아이디}
+git rebase upstream/본인_아이디
+git checkout -b 브랜치이름
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
