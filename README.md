@@ -1,13 +1,13 @@
 ### Hi there 👋
 🤔 I’m looking for ✨ _special_ ✨ study group 
 
-```shell
-git checkout kwaktaemin
-git remote add upstream base_저장소_url
-git remote -v
-git fetch upstream kwaktaemin
-git rebase upstream/kwaktaemin
-git checkout -b kwaktaemin-{step}
+```java
+public static void main(args[] String) {
+  boolean isHappy = true;
+  while(isHappy) {
+    isHappy = isStudy(JAVA);
+  }
+}
 ```
 
 <!--
