@@ -3,9 +3,13 @@
 
 ```java
 public static void main(args[] String) {
-  boolean isHappy = true;
-  while(isHappy) {
-    isHappy = isStudy(JAVA);
+  Taemin.Feeling = Feeling.Happy;
+  while(Taemin.Feeling == Feeling.Happy) {
+     Taemin.study(java, DDD, Refactoring, CleanCode, TDD, Spring);
+     Taemin.work(freelancer);
+     Taemin.exercise(pilates);
+     Taemin.game(LOL);
+     Taemin.isSingle(true); // todo : need to.. fix to..
   }
 }
 ```
