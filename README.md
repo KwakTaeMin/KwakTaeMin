@@ -1,5 +1,5 @@
 ### Hi there 👋
-🤔 I’m looking for ✨ _special_ ✨ study group 
+🤔 I will probably be happy....
 
 ```java
 public static void main(args[] String) {
