@@ -3,7 +3,6 @@
 
 ```java
 public static void main(args[] String) {
-  Taemin.Feeling = Feeling.Happy;
   while(Taemin.Feeling == Feeling.Happy) {
      Taemin.study(java, DDD, Refactoring, CleanCode, TDD, Spring);
      Taemin.work(freelancer);
