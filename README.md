@@ -8,7 +8,6 @@ public static void main(args[] String) {
      Taemin.work(freelancer);
      Taemin.exercise(pilates);
      Taemin.game(LOL);
-     Taemin.isSingle(true); // todo : need to.. fix to..
   }
 }
 ```
