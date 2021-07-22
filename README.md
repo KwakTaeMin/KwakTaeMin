@@ -3,7 +3,7 @@
 
 ```java
 public static void main(args[] String) {
-  while(Taemin.Feeling == Feeling.Happy) {
+  while(niKe.Feeling == Feeling.Happy) {
      niKe.study(java, DDD, Refactoring, CleanCode, TDD, Spring);
      niKe.work(freelancer);
      niKe.exercise(pilates);
