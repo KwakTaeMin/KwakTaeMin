@@ -4,10 +4,10 @@
 ```java
 public static void main(args[] String) {
   while(Taemin.Feeling == Feeling.Happy) {
-     Taemin.study(java, DDD, Refactoring, CleanCode, TDD, Spring);
-     Taemin.work(freelancer);
-     Taemin.exercise(pilates);
-     Taemin.game(LOL);
+     niKe.study(java, DDD, Refactoring, CleanCode, TDD, Spring);
+     niKe.work(freelancer);
+     niKe.exercise(pilates);
+     niKe.game(LOL);
   }
 }
 ```
