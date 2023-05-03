@@ -5,8 +5,8 @@
 public static void main(args[] String) {
   while(niKe.Feeling == Feeling.Happy) {
      niKe.study(java, DDD, Refactoring, CleanCode, TDD, Spring);
-     niKe.work(freelancer);
-     niKe.exercise(pilates);
+     niKe.work();
+     niKe.exercise();
      niKe.game(LOL);
   }
 }
